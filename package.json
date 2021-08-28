@@ -58,7 +58,8 @@
   "config": {
     "forge": {
       "packagerConfig": {
-        "name": "React + Electron App",
+        "icon": "./build_assets/icon.ico",
+        "name": "Skedooli",
         "appBundleId": "com.sentosa.skedooli"
       },
       "makers": [
